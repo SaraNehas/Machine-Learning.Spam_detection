@@ -16,7 +16,7 @@ The results are the following:
    
    - The AUC score using *TfidfVectorizer* and *SVM* and *adding ONE feature* is **0.96**.
    
-   - The AUC score using *TfidfVectorizer* and* Logistic Regression* and* adding TWO feature* is **0.97**.
+   - The AUC score using *TfidfVectorizer* and *Logistic Regression* and *adding TWO feature* is **0.97**.
 
 This first test shows that, in this analysis, the TfidfVectorizer is less robust than the CountVectorizer. Howerver, with som data engineering the model can give best performance results. 
 
